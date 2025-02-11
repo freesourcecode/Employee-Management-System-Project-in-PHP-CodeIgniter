@@ -1,0 +1,9 @@
+**Admin Login Details**
+
+Username: admin
+Password: password0101
+
+**Employee Login Details**
+
+Email	: jude@gmail.com
+Password: 123
